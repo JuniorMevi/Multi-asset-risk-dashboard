@@ -148,4 +148,4 @@ où `L` est la matrice de Cholesky de la covariance (`Σ = L·Lᵀ`) et `Z ~ N(0
 ## Auteur
 
 **Junior MEVI** — Étudiant Cycle Ingénieur IT for Finance, EFREI Paris  
-LinkedIn : [@juniormevi](https://linkedin.com/in/juniormevi)
+LinkedIn : [@juniormevi](https://linkedin.com/in/junior-mevi)
