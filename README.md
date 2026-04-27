@@ -2,8 +2,6 @@
 
 Outil d'analyse et de reporting de risque sur un portefeuille **cross-assets** (Equity, FX, Fixed Income, Commodities) développé en Python.
 
-Projet réalisé dans le cadre d'une alternance en **IT for Finance** (EFREI Paris — Cycle Ingénieur).
-
 ---
 
 ## Fonctionnalités
